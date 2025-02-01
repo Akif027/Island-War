@@ -1,0 +1,23 @@
+# ninja log v5
+51	2766	7590788061541599	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	63e83eda103d8b81
+45	2822	7590788062269646	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7053f47a65731471
+56	2834	7590788062568846	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4763de9ccfc75361
+5	2793	7590788062040261	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	56e4660aa06d4bac
+40	2884	7590788063182304	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	15ba73401f5b2265
+48	2831	7590788062209810	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	48e4427ac508315f
+2766	3088	7590788065292297	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9e09d62d43fc1d82
+38	3166	7590788065990430	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	19aebe2498a9c406
+53	3030	7590788064634004	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	19c9f99be50ac982
+3089	3503	7590788069390754	F:/UNityProjects/Push-Of-Island/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6j5dpz3q/obj/arm64-v8a/libswappywrapper.so	c5e63a27d14f5897
+3166	3515	7590788069450583	F:/UNityProjects/Push-Of-Island/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6j5dpz3q/obj/arm64-v8a/libgame.so	e7a0e751f87025bf
+4	1528	7591395736447664	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	56e4660aa06d4bac
+37	1550	7591395737135817	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	63e83eda103d8b81
+40	1591	7591395737764133	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	48e4427ac508315f
+48	1592	7591395737744178	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4763de9ccfc75361
+32	1624	7591395738282740	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7053f47a65731471
+29	1770	7591395739742576	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	15ba73401f5b2265
+44	1841	7591395740465441	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	19c9f99be50ac982
+1529	1892	7591395741052501	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9e09d62d43fc1d82
+1892	2047	7591395742577920	F:/UNityProjects/Push-Of-Island/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6j5dpz3q/obj/arm64-v8a/libswappywrapper.so	c5e63a27d14f5897
+34	2105	7591395743139265	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	19aebe2498a9c406
+2106	2238	7591395744454749	F:/UNityProjects/Push-Of-Island/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6j5dpz3q/obj/arm64-v8a/libgame.so	e7a0e751f87025bf

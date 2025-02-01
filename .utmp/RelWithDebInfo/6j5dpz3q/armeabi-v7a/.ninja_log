@@ -1,0 +1,23 @@
+# ninja log v5
+4	2355	7590788104939451	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	fddc45fc5ebb404e
+2569	3140	7590788113117815	F:/UNityProjects/Push-Of-Island/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6j5dpz3q/obj/armeabi-v7a/libswappywrapper.so	b9fa6d468e737f94
+12	2138	7590788101887439	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5c64f1ccaf419530
+30	2360	7590788105388253	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	611f3ecf145022d1
+9	2661	7590788108968674	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	156baa48aa04b4ad
+19	2300	7590788104839718	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	daf79baf7761297e
+22	2293	7590788103882280	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	72f4f50afc48e92b
+2139	2569	7590788108300466	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9e0c9373905807b5
+15	2562	7590788107971346	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	543054d6fbe720d8
+26	2799	7590788110544466	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2e09e203b2d1b75e
+2799	3222	7590788113367157	F:/UNityProjects/Push-Of-Island/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6j5dpz3q/obj/armeabi-v7a/libgame.so	f76962abc0eff49c
+10	1348	7591395769680229	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	fddc45fc5ebb404e
+19	1453	7591395770637664	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	72f4f50afc48e92b
+4	1488	7591395770966790	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	156baa48aa04b4ad
+13	1530	7591395771794568	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5c64f1ccaf419530
+25	1535	7591395771764646	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	611f3ecf145022d1
+16	1539	7591395771864384	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	daf79baf7761297e
+1349	1677	7591395773392431	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9e0c9373905807b5
+1677	1849	7591395775022050	F:/UNityProjects/Push-Of-Island/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6j5dpz3q/obj/armeabi-v7a/libswappywrapper.so	b9fa6d468e737f94
+7	1860	7591395775172174	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	543054d6fbe720d8
+22	1951	7591395776051725	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2e09e203b2d1b75e
+1951	2079	7591395777356335	F:/UNityProjects/Push-Of-Island/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6j5dpz3q/obj/armeabi-v7a/libgame.so	f76962abc0eff49c

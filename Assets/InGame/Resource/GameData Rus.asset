@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6420a363a72adc438dd5d60ec70246a, type: 3}
+  m_Name: GameData Rus
+  m_EditorClassIdentifier: 
+  characters:
+  - characterName: Golem
+    CharacterCost: 40
+    characterType: 2
+    characterCardSprite: {fileID: -7802968994746315648, guid: 7f6c57329f58ab54785310dfbe43e113, type: 3}
+    characterCardNoDescriptionSprite: {fileID: 5298276519788783404, guid: d7f45b8b75c23cb4abb256ed96543c2c, type: 3}
+    TokenPrefab: {fileID: 7403747386613742195, guid: c9cdc5135cd79ef44980f4078d4fc679, type: 3}
+    ability: {fileID: 11400000, guid: d824cfe4132bb0f4688ab37a484a885b, type: 2}
+  - characterName: Dwarf
+    CharacterCost: 30
+    characterType: 3
+    characterCardSprite: {fileID: 6312302260123324231, guid: 77735f8cbb8b42945b7c5025d1e4bdac, type: 3}
+    characterCardNoDescriptionSprite: {fileID: -7868322078262055936, guid: ecd319f4c89c6414f8fef8fe56675d3d, type: 3}
+    TokenPrefab: {fileID: 7403747386613742195, guid: a47100535f1fd454e93ad350315efbe5, type: 3}
+    ability: {fileID: 11400000, guid: bb7cc58ea657e1a4cb25a89b855a46eb, type: 2}
+  - characterName: Gryphon
+    CharacterCost: 30
+    characterType: 4
+    characterCardSprite: {fileID: -7220888729409409792, guid: 4fb08b150e4c1bc4ea1bcab9aec717a7, type: 3}
+    characterCardNoDescriptionSprite: {fileID: 393728133207141069, guid: 77f0b72b2f645294f8ed6d8dc10671df, type: 3}
+    TokenPrefab: {fileID: 7403747386613742195, guid: 18b2b11d56caaf94484a4e83560ab4bb, type: 3}
+    ability: {fileID: 11400000, guid: 7fe8d4700dcfdd848991fb2acd2af5b1, type: 2}
+  - characterName: King
+    CharacterCost: 15
+    characterType: 5
+    characterCardSprite: {fileID: -3239644785308399579, guid: d8ea7d68becf7f7439c26f5d8fdd07eb, type: 3}
+    characterCardNoDescriptionSprite: {fileID: -2687057972802849342, guid: f9825f098a6615a459489e848c10db99, type: 3}
+    TokenPrefab: {fileID: 7403747386613742195, guid: d8b918ba0de113549ae138859adf4bb4, type: 3}
+    ability: {fileID: 11400000, guid: 1b4d9e9fd57b0b34a9ed2c24751e94c5, type: 2}
+  - characterName: Thief
+    CharacterCost: 5
+    characterType: 6
+    characterCardSprite: {fileID: -5010574189282894560, guid: 4c03d9d5f340bed488d77dc98291e88d, type: 3}
+    characterCardNoDescriptionSprite: {fileID: -6521152297655064327, guid: 73f7a94ab4b51d647b13a38959ff882d, type: 3}
+    TokenPrefab: {fileID: 7403747386613742195, guid: 0dd95e30b3dc2284daa1878c14a8207a, type: 3}
+    ability: {fileID: 11400000, guid: 9a275addce72f6a4c84fea7f893cb2e8, type: 2}
+  - characterName: Rogue
+    CharacterCost: 0
+    characterType: 7
+    characterCardSprite: {fileID: 3324915422312238204, guid: 7f8f0a46a02c4ac48a90c6349916b071, type: 3}
+    characterCardNoDescriptionSprite: {fileID: -6316771870842243627, guid: 0d8c8e7f03310c340980f0505f062867, type: 3}
+    TokenPrefab: {fileID: 7403747386613742195, guid: bc67b739255f0ae4fa14953eef1238b3, type: 3}
+    ability: {fileID: 11400000, guid: a88bbeac60d43d7428090f712c4538f4, type: 2}
+  - characterName: Satyr
+    CharacterCost: 10
+    characterType: 8
+    characterCardSprite: {fileID: -2705299135061223143, guid: 230aa16f7c6bd1748a72c46c3379809d, type: 3}
+    characterCardNoDescriptionSprite: {fileID: -7355484124290462336, guid: 3a9ae844607846b4db0c9601dae6be61, type: 3}
+    TokenPrefab: {fileID: 7403747386613742195, guid: 4d90ef3a3ac02b341bac6ae22ee26c52, type: 3}
+    ability: {fileID: 11400000, guid: dea3b75dd6f9b6046b9535346717784f, type: 2}
+  - characterName: Enchantress
+    CharacterCost: 15
+    characterType: 9
+    characterCardSprite: {fileID: 3422398571287189258, guid: 29f377513e4b2c242b564f171eaa9300, type: 3}
+    characterCardNoDescriptionSprite: {fileID: 3912807851989988000, guid: 972421366aa43db4185672838169a2ab, type: 3}
+    TokenPrefab: {fileID: 7403747386613742195, guid: ee8c65164d92b7647805977d5d8b6d61, type: 3}
+    ability: {fileID: 11400000, guid: f4bd5b142f3201943b51303de35c54f6, type: 2}
+  - characterName: Mermaid
+    CharacterCost: 10
+    characterType: 0
+    characterCardSprite: {fileID: -2747721675536554046, guid: 6942ff2ecfa874644b637efe848f59a0, type: 3}
+    characterCardNoDescriptionSprite: {fileID: -7980547015651254464, guid: 8f26e9f4edda21843b73bfca22ca3724, type: 3}
+    TokenPrefab: {fileID: 7403747386613742195, guid: cbe3229c88109844d8401de8a063fefa, type: 3}
+    ability: {fileID: 11400000, guid: 6512c198e49437b4487276ccb701edc2, type: 2}
+  - characterName: Knight
+    CharacterCost: 40
+    characterType: 1
+    characterCardSprite: {fileID: -1721572843145311760, guid: 90f613c772fc5914ba9bae7116704802, type: 3}
+    characterCardNoDescriptionSprite: {fileID: -2023998248654061579, guid: bb65df969b1f7fb438793c42eea06444, type: 3}
+    TokenPrefab: {fileID: 7403747386613742195, guid: e6f0d2ee235a0da45a6902f0bf2bc146, type: 3}
+    ability: {fileID: 11400000, guid: 8e0e0954313d5e64d9c0812e972861e3, type: 2}
+  CharacterCardPrefab: {fileID: 8160458717162521867, guid: 01de1499145a1be44b59dd3d62d5a319, type: 3}
+  CharacterCardNoDescriptionPrefab: {fileID: 8160458717162521867, guid: 853e9a4471c73e440b5c78a608c6097b, type: 3}
